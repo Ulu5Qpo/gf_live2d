@@ -21,12 +21,54 @@
 		],
 		"idle":[
 			{"file":"motions/daiji_idle_01.mtn","fade_in":1700}
+		],
+		"tap_head":[
+		    	{"file":"motions/login.mtn"},
+			{"file":"motions/shake.mtn"},
+			{"file":"motions/touch_1.mtn"},
+			{"file":"motions/touch_2.mtn"},
+			{"file":"motions/touch_3.mtn"},
+			{"file":"motions/touch_4.mtn"},
+			{"file":"motions/touch_5.mtn"},
+			{"file":"motions/touch_Christmas.mtn"},
+			{"file":"motions/wait_1.mtn"},
+			{"file":"motions/wait_2.mtn"},
+			{"file":"motions/wedding.mtn"},
+			{"file":"motions/wedding_touch.mtn"}
+		],
+		"tap_body":[
+		    	{"file":"motions/login.mtn"},
+			{"file":"motions/shake.mtn"},
+			{"file":"motions/touch_1.mtn"},
+			{"file":"motions/touch_2.mtn"},
+			{"file":"motions/touch_3.mtn"},
+			{"file":"motions/touch_4.mtn"},
+			{"file":"motions/touch_5.mtn"},
+			{"file":"motions/touch_Christmas.mtn"},
+			{"file":"motions/wait_1.mtn"},
+			{"file":"motions/wait_2.mtn"},
+			{"file":"motions/wedding.mtn"},
+			{"file":"motions/wedding_touch.mtn"}
+		],
+		"tap_leg":[
+		    	{"file":"motions/login.mtn"},
+			{"file":"motions/shake.mtn"},
+			{"file":"motions/touch_1.mtn"},
+			{"file":"motions/touch_2.mtn"},
+			{"file":"motions/touch_3.mtn"},
+			{"file":"motions/touch_4.mtn"},
+			{"file":"motions/touch_5.mtn"},
+			{"file":"motions/touch_Christmas.mtn"},
+			{"file":"motions/wait_1.mtn"},
+			{"file":"motions/wait_2.mtn"},
+			{"file":"motions/wedding.mtn"},
+			{"file":"motions/wedding_touch.mtn"}
 		]
 	},
 	
-				"hit_areas":[
-			{"name":"head","id":"D_REF.HEAD"},
-			{"name":"leg","id":"D_REF.LEG"},
-			{"name":"body","id":"D_REF.BODY"}
-			]
+	"hit_areas":[
+		{"name":"head","id":"D_REF.HEAD"},
+		{"name":"leg","id":"D_REF.LEG"},
+		{"name":"body","id":"D_REF.BODY"}
+	]
 }
